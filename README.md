@@ -9,5 +9,14 @@
 
  **<H3>Стеки C++(GNU, Windows/Linux) также не в новинку.</H3>** 
  
- **Буду рад рассмотреть гибридную роль системный аналитик + разработчик</H3>**
-  
+ **Буду рад рассмотреть гибридную роль системный аналитик + разработчик.</H3>**
+ 
+ 
+ **Прямые ссылки:</H3>**
+ 
+ Резюме: https://github.com/dionismir82/denis_mironov/blob/main/resume.md
+ 
+ Проектное резюме: https://github.com/dionismir82/denis_mironov/blob/main/project_based_resume.md
+ 
+ 
+ 
