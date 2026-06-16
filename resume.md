@@ -6,6 +6,10 @@
 
 Адрес: г. Пенза. E-mail: dionis-m@mail.ru , dionismir82@gmail.com . Telegram: @denismironov
 
+## Предпочитаемый формат работы
+
+удаленно c редкими командировками
+
 ## Образование
 
 Высшее. К.ф.-м.н. (PhD Mathematics)
