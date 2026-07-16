@@ -20,7 +20,7 @@
 ## Профессиональные навыки и знания
 
 - Языки: C#, JavaScript, C, C++, Java, SQL диалекты (в т.ч. хранимые процедуры, триггеры, UDF/CLR)
-- Фреймворки, библиотеки: gRPC, ZeroMQ, Web API, Entity Framework, .NET, nUnit, Ninject, MEF, MS Extensions DI, WPF, Avalonia UI, WCF, TypeScript, AngularJS, Qt6/QML, MPI.
+- Фреймворки, библиотеки: gRPC, RabbitMQ, ZeroMQ, Web API, Entity Framework, .NET, nUnit, Ninject, MEF, MS Extensions DI, WPF, Avalonia UI, WCF, TypeScript, AngularJS, Qt6/QML, MPI.
 - ОС: Windows, Linux
 
 ### Прочее
@@ -54,7 +54,7 @@
 
 ## Карьера
 
-10.2021 — по настоящее время
+10.2021 — 07.2026
 
 ООО «Лаборатория Безопасных Систем», главный технолог-программист
 
